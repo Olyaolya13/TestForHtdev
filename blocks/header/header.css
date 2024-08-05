@@ -1,0 +1,13 @@
+@import url(./__logo-image/header__logo-image.css);
+@import url(./__logo/header__logo.css);
+@import url(./__content/header__content.css);
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__text/header__text.css);
+@import url(./__lines/header__lines.css);
+
+.header {
+  background: url("../../images/HeaderImg.svg") no-repeat center center;
+  background-size: cover;
+  height: 75vh;
+}

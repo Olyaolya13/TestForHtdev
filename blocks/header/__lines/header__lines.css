@@ -1,0 +1,6 @@
+.header__lines {
+  background: url(../../../images/FireworksLinesImg.svg) no-repeat;
+  background-position: right;
+  height: 46vh;
+  margin-top: -50px;
+}
