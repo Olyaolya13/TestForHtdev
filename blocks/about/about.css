@@ -1,0 +1,15 @@
+@import url(./__background/about__background.css);
+@import url(./__content/about__content.css);
+@import url(./__image/about__image.css);
+@import url(./__subtitle/about__subtitle.css);
+@import url(./__text/about__text.css);
+@import url(./__title/about__title.css);
+@import url(./__background/about__background.css);
+@import url(./__video/about__video.css);
+@import url(./__video-content/about__video-content.css);
+
+.about {
+  margin-top: 100px;
+  display: grid;
+  grid-template-columns: 2fr 50%;
+}

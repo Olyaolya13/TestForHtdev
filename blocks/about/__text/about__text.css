@@ -1,0 +1,6 @@
+.about__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 34vh;
+}

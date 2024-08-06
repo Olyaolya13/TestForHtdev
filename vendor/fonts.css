@@ -5,12 +5,3 @@
   font-display: swap;
   src: url(./Arial.woff) format("woff"), url(./Arial.woff2) format("woff2");
 }
-
-@font-face {
-  font-family: Lato;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(./Lato-Regular.woff) format("woff"),
-    url(./Lato-Regular.woff2) format("woff2");
-}
