@@ -1,0 +1,11 @@
+.mission__btn {
+  width: 21vw;
+  height: 8.5vh;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.mission__btn:hover {
+  opacity: 0.8;
+}

@@ -9,7 +9,18 @@
 @import url(./__video-content/about__video-content.css);
 
 .about {
-  margin-top: 100px;
+  margin: 100px 0;
   display: grid;
   grid-template-columns: 2fr 50%;
+  position: relative;
+}
+
+.about::after {
+  content: "";
+  position: absolute;
+  top: -24%;
+  bottom: -24.3%;
+  right: 0;
+  width: 3px;
+  background-color: #f7eee5;
 }

@@ -1,0 +1,6 @@
+.mission__background {
+  background: url(../../../images/BackgroundMissionDotImg.svg) no-repeat;
+  background-position: right top;
+  margin-top: -13.2%;
+  height: 22vh;
+}

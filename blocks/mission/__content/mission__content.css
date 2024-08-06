@@ -1,0 +1,19 @@
+.mission__content {
+  background: url(../../../images/BackgroundMissionForestImg.svg) no-repeat
+    center center;
+  background-size: cover;
+  height: 55vh;
+  box-sizing: border-box;
+  width: 93.8vw;
+  margin-top: -1.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 1340px) {
+  .mission__content {
+    width: 97.8vw;
+  }
+}
