@@ -1,0 +1,10 @@
+@import url(./__card/advantage__card.css);
+@import url(./__grid/advantage__grid.css);
+@import url(./__icon/advantage__icon.css);
+@import url(./__title/advantage__title.css);
+@import url(./__subtitle/advantage__subtitle.css);
+
+.advantage {
+  padding: 100px 60px 125px;
+  background: #f7eee5;
+}

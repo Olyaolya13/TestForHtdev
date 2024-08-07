@@ -1,0 +1,6 @@
+.advantage__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(356px, 1fr));
+  gap: 31px;
+  justify-content: center;
+}
